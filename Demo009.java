@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Demo9 {
+public class Demo009 {
         private String name;
         private int accnumber;
         private String balance;
